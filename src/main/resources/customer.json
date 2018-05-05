@@ -1,0 +1,19 @@
+{
+  "customerId" : 1,
+  "name" : "Harman",
+  "dob" : 641797200000,
+  "salary" : 1500.0,
+  "address" : {
+    "street" : "Colonial Grand",
+    "city" : "Irving",
+    "state" : "Texas",
+    "zipcode" : "76263"
+  },
+  "payment" : [ {
+    "cardNumber" : 11112222,
+    "cardName" : "Harman",
+    "dateFrom" : 1493874000000,
+    "dateTo" : 1488434400000,
+    "cardtype" : "CREDITCARD"
+  } ]
+}
